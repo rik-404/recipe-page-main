@@ -7,6 +7,9 @@ main{
     align-items: center;
     margin: 0;
 }
+header{
+heigth: 10vh;
+}
 main .cartao{
     background-color: #ffff;
     width: 550px;
